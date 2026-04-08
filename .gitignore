@@ -1,0 +1,8 @@
+Debug/
+build/
+*.o
+*.elf
+*.bin
+*.map
+*.d
+*.log
